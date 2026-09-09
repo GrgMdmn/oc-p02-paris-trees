@@ -9,6 +9,8 @@ Dataset : voir `fetch-data.sh` (hors git si volumineux).
 
 # Projet d'Analyse des Arbres Parisiens
 
+📘 Ce projet est également disponible en [anglais 🇬🇧](./README.md)
+
 ## 📋 Contexte du projet
 
 Ce projet a été réalisé dans le cadre d'une mission d'analyse de données pour la **Ville de Paris**. L'objectif est d'explorer et d'analyser le patrimoine arboré parisien à partir d'un jeu de données public recensant les arbres présents sur le territoire de la capitale.
