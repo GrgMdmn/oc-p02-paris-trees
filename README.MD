@@ -1,3 +1,12 @@
+**Source de vérité** : https://git.gregoiremureau.com/grgmro/oc-p02-paris-trees
+
+```bash
+git clone https://git.gregoiremureau.com/grgmro/oc-p02-paris-trees.git
+git clone https://git.gregoiremureau.com/grgmro/oc-p02-paris-trees.git
+```
+
+Dataset : voir `fetch-data.sh` (hors git si volumineux).
+
 # Projet d'Analyse des Arbres Parisiens
 
 ## 📋 Contexte du projet
