@@ -1,15 +1,14 @@
+# Projet d'Analyse des Arbres Parisiens
+
+📘 This project is also available in [English 🇬🇧](./README.md)
+
 **Source de vérité** : https://git.gregoiremureau.com/openclassroom-ai/oc-p02-paris-trees
 
 ```bash
 git clone https://git.gregoiremureau.com/openclassroom-ai/oc-p02-paris-trees.git
-git clone https://git.gregoiremureau.com/openclassroom-ai/oc-p02-paris-trees.git
 ```
 
 Dataset : voir `fetch-data.sh` (hors git si volumineux).
-
-# Projet d'Analyse des Arbres Parisiens
-
-📘 This project is also available in [English 🇬🇧](./README.md)
 
 ## 📋 Contexte du projet
 
