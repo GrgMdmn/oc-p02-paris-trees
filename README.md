@@ -9,7 +9,7 @@ Dataset: see `fetch-data.sh` (out of git if large).
 
 # Paris Trees Analysis Project
 
-📘 This project is also available in [French 🇫🇷](./README.fr.md)
+📘 Ce projet est également disponible en [français 🇫🇷](./README.fr.md)
 
 ## 📋 Project Context
 
