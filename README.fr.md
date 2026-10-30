@@ -47,8 +47,13 @@ Le dataset est inclus dans le projet sous le nom `p2-trees-fr.csv`.
 ├── data_analysis_functions.py
 ├── map_arrondissement.html
 ├── map_lieu.html
+├── demo/ (travail complémentaire : carte interactive)
 └── p2-trees-fr.csv
 ```
+
+## Travail complémentaire (`demo/`)
+
+Une carte interactive Leaflet, générée à partir du même CSV, avec filtres par zone et par espèce, trois vues (densité, heatmap, points) et indicateurs recalculés. Elle ne remplace pas le notebook ni les cartes Folium d'origine. Page en ligne : https://demo.gregoiremureau.com/arbres-paris-carte-interactive.html. Détail : [`demo/README.fr.md`](./demo/README.fr.md).
 
 ### 1. `Paris_trees_analysis.ipynb`
 
